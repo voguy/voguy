@@ -1,10 +1,5 @@
-### Welcome, Bienvenue :wave:
+### Hi, I'm Thanh :wave:
 
-> I'm a **DevOps Engineer** && **IT Teacher** working in Strasbourg, France.
+> I work as a Cloud Engineer at IBM in the Client Engineering team.
 
 Open-minded, I'm a person who is passionate about **Cloud Computing**, **Cybersecurity** and like to write ~dirty~ code.
-
-#### :mailbox_with_mail: How to reach me ?
-
-- LinkedIn: [@hoangthanhvo](https://www.linkedin.com/in/hoangthanhvo/)
-- Twitter: [@voguy00](https://twitter.com/voguy00)
